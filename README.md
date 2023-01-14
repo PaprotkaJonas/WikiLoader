@@ -10,8 +10,16 @@ WikiLoader is a Python script that allows you to easily scrape Wikipedia data fo
 
 in the 'main.py':
 
+------------------------------
+
 search = ["Python", "Github"]
+
 results_per_tag = 100
+
 summary = True
+
 my_language = "en"
+
 location = "data"
+
+------------------------------
